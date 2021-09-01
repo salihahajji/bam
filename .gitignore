@@ -1,0 +1,13 @@
+
+*.class
+*.jar
+hs_err_pid*
+
+target/
+dependency-reduced-pom.xml
+
+.settings/
+.metadata
+.classpath
+.project
+.idea
